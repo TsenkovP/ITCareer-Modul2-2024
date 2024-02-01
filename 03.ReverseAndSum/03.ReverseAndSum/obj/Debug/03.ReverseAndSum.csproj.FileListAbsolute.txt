@@ -1,0 +1,8 @@
+C:\Users\Panayot\source\repos\03.ReverseAndSum\03.ReverseAndSum\bin\Debug\03.ReverseAndSum.exe.config
+C:\Users\Panayot\source\repos\03.ReverseAndSum\03.ReverseAndSum\bin\Debug\03.ReverseAndSum.exe
+C:\Users\Panayot\source\repos\03.ReverseAndSum\03.ReverseAndSum\bin\Debug\03.ReverseAndSum.pdb
+C:\Users\Panayot\source\repos\03.ReverseAndSum\03.ReverseAndSum\obj\Debug\03.ReverseAndSum.csproj.AssemblyReference.cache
+C:\Users\Panayot\source\repos\03.ReverseAndSum\03.ReverseAndSum\obj\Debug\03.ReverseAndSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Panayot\source\repos\03.ReverseAndSum\03.ReverseAndSum\obj\Debug\03.ReverseAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Panayot\source\repos\03.ReverseAndSum\03.ReverseAndSum\obj\Debug\03.ReverseAndSum.exe
+C:\Users\Panayot\source\repos\03.ReverseAndSum\03.ReverseAndSum\obj\Debug\03.ReverseAndSum.pdb
