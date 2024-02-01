@@ -1,0 +1,8 @@
+C:\Users\Panayot\source\repos\02.StringArrayReverse\02.StringArrayReverse\bin\Debug\02.StringArrayReverse.exe.config
+C:\Users\Panayot\source\repos\02.StringArrayReverse\02.StringArrayReverse\bin\Debug\02.StringArrayReverse.exe
+C:\Users\Panayot\source\repos\02.StringArrayReverse\02.StringArrayReverse\bin\Debug\02.StringArrayReverse.pdb
+C:\Users\Panayot\source\repos\02.StringArrayReverse\02.StringArrayReverse\obj\Debug\02.StringArrayReverse.csproj.AssemblyReference.cache
+C:\Users\Panayot\source\repos\02.StringArrayReverse\02.StringArrayReverse\obj\Debug\02.StringArrayReverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Panayot\source\repos\02.StringArrayReverse\02.StringArrayReverse\obj\Debug\02.StringArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\Panayot\source\repos\02.StringArrayReverse\02.StringArrayReverse\obj\Debug\02.StringArrayReverse.exe
+C:\Users\Panayot\source\repos\02.StringArrayReverse\02.StringArrayReverse\obj\Debug\02.StringArrayReverse.pdb
