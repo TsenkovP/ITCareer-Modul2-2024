@@ -1,0 +1,8 @@
+C:\Users\Panayot\source\repos\01.ArrayReverse\01.ArrayReverse\bin\Debug\01.ArrayReverse.exe.config
+C:\Users\Panayot\source\repos\01.ArrayReverse\01.ArrayReverse\bin\Debug\01.ArrayReverse.exe
+C:\Users\Panayot\source\repos\01.ArrayReverse\01.ArrayReverse\bin\Debug\01.ArrayReverse.pdb
+C:\Users\Panayot\source\repos\01.ArrayReverse\01.ArrayReverse\obj\Debug\01.ArrayReverse.csproj.AssemblyReference.cache
+C:\Users\Panayot\source\repos\01.ArrayReverse\01.ArrayReverse\obj\Debug\01.ArrayReverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Panayot\source\repos\01.ArrayReverse\01.ArrayReverse\obj\Debug\01.ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\Panayot\source\repos\01.ArrayReverse\01.ArrayReverse\obj\Debug\01.ArrayReverse.exe
+C:\Users\Panayot\source\repos\01.ArrayReverse\01.ArrayReverse\obj\Debug\01.ArrayReverse.pdb
